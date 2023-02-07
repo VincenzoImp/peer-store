@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Peer Store</string>
+    <string name="sing_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="sing_in">Sign In</string>
+    <string name="sing_out">Sign Out</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="confirm">Confirm</string>
+    <string name="profile">Profile</string>
+    <string name="explore">Explore</string>
+    <string name="chat">Chat</string>
+    <string name="your_posts">Your Posts</string>
+    <string name="id">Id:</string>
+    <string name="post">Post:</string>
+    <string name="ai_description">AI description:</string>
+    <string name="owner_description">Owner description:</string>
+    <string name="price">Price:</string>
+    <string name="position">Position:</string>
+    <string name="owner">Owner:</string>
+    <string name="delete_post">Delete post</string>
+    <string name="create_post">Create Post</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="price_d">Price $</string>
+    <string name="send_message">Send message</string>
+    <string name="write_message">Write message</string>
+</resources>

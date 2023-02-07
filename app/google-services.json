@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298815632223",
+    "project_id": "peer-store-ae08c",
+    "storage_bucket": "peer-store-ae08c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298815632223:android:a9872cbd5ed13ee5e13cea",
+        "android_client_info": {
+          "package_name": "com.example.peerstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298815632223-8sjpmgrhf24lf7eh9osii581suf2j0tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXQgO5GqHEEjmPSyE_D3ULr7xMRmH9G8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298815632223-8sjpmgrhf24lf7eh9osii581suf2j0tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
